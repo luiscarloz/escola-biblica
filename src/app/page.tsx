@@ -91,8 +91,7 @@ export default function Home() {
 
           <p className="text-navy/70 text-lg md:text-xl max-w-2xl mb-10 leading-relaxed">
             12 semanas de estudo presencial da Palavra de Deus.
-            <br className="hidden md:block" />
-            De 8 de abril a 24 de junho, todas as quartas-feiras.
+            {" "}De 8 de abril a 24 de junho, todas as quartas-feiras.
           </p>
 
           <a
